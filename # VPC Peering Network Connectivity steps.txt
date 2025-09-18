@@ -1,0 +1,22 @@
+# VPC Peering Network Connectivity
+
+## Overview
+This project demonstrates private communication between two AWS VPCs using VPC Peering.
+
+## Architecture
+- VPC-A: 10.0.0.0/16
+- VPC-B: 192.168.0.0/16
+- EC2 instances in both VPCs
+- VPC peering connection
+- Route tables and security groups configured
+
+## Steps
+1. Create VPCs
+2. Launch EC2 instances
+3. Create and accept peering connection
+4. Update route tables
+5. Configure security groups
+6. Test connectivity
+
+## Result
+Private communication between VPCs using internal IPs.

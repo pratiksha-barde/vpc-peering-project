@@ -1,0 +1,7 @@
+VPC-Peering-Project/
+│
+├── README.md
+├── architecture-diagram.png
+└── screenshots/
+    ├── peering-create.png
+    └── route-table-update.png
